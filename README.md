@@ -1,4 +1,4 @@
-# Digit Recognizer CNN, acc 99.8%
+# Digit Recognizer CNN, acc 100%
 identify digits from a dataset of tens of thousands of handwritten images
 ![header](https://user-images.githubusercontent.com/108609519/187041790-f98d77df-28ad-4e4d-8f1e-c4f5d6aeb81b.png)
 
